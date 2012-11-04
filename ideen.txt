@@ -1,0 +1,17 @@
+Tiny World
+
+Map:
+	Welt seemless, runder Planet als minimap
+
+Spielidee:
+	verschiedene Tiere (Käfer) versuchen Dominanz auf Planet zu erreichen
+	Spieler spielt immer einen Käfer
+	Käfer können (wenn sie bestimmte Pflanzen eingesammelt habe) "schießen"
+	Spawner/Nest kann an verschiedenen Stellen gebaut werden (unterschiedliche Spawnraten & Stärke)
+	
+	Spawner:
+		- näher am Wasser == mehr spawnrate
+		- mehr irgendwelche Pflanzen == mehr stärke
+		
+TODO:
+	hintergrundfarbe von Spieler pulsiert langsam
